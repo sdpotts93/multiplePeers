@@ -5,7 +5,7 @@ The package [simple-peer](https://github.com/feross/simple-peer) is used for web
 The implementation of the signaling server is done with [socket.io](https://socket.io/)
 
 ## Demo
-[Demo on heroku](https://dirvann-webrtc-video.herokuapp.com/)
+[Demo on heroku](https://multiple-peers-chat.herokuapp.com/)
 
 ## Running
 
